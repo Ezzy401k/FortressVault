@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/FortressVault/releases/latest">
+  <a href="https://github.com/Ezzy401k/FortressVault/releases/latest">
     <img src="https://img.shields.io/badge/Download-APK-brightgreen" alt="Download APK" />
   </a>
   <a href="LICENSE">
