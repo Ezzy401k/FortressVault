@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/icon.png" alt="FortressVault" width="120" />
+  <img src="icon.png" alt="FortressVault" width="120" />
 </p>
 
 <h1 align="center">FortressVault</h1>
