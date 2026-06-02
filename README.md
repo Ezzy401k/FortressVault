@@ -95,15 +95,24 @@ Most password managers connect to the internet. Even “offline” ones encrypt 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/unlock.png" width="200" />
-  <img src="screenshots/dashboard.png" width="200" />
-  <img src="screenshots/vault.png" width="200" />
-  <img src="screenshots/decoy_setup.png" width="200" />
-  <img src="screenshots/matrix_health.png" width="200" />
-  <img src="screenshots/leak_warning.png" width="200" />
+  <img src="screenshots/DarkMode.png" width="200" />
+  <img src="screenshots/LightMode.png" width="200" />
+  <img src="screenshots/LinkedPasswordAndTOTP.png" width="200" />
+  <img src="screenshots/LinkedTOTP.png" width="200" />
+  <img src="screenshots/PasswordSetup.png" width="200" />
+  <img src="screenshots/PasswordThatExpires.png" width="200" />
+  <img src="screenshots/RandomPasswordGenerator.png" width="200" />
+  <img src="screenshots/RecoveryKeyGeneration.png" width="200" />
+  <img src="screenshots/Settings.png" width="200" />
+  <img src="screenshots/SetupMasterKey.png" width="200" />
+  <img src="screenshots/Test.png" width="200" />
+  <img src="screenshots/TOTPPAGE.png" width="200" />
+  <img src="screenshots/TotpScreen.png" width="200" />
+  <img src="screenshots/UnlinkedTOTP.png" width="200" />
+  <img src="screenshots/VaultListedkey.png" width="200" />
+  <img src="screenshots/VaultUI.png" width="200" />
 </p>
 
-> **Tip:** Take screenshots on a Pixel emulator with `scrcpy` or Android Studio. Add them to a `screenshots` folder in your repo.
 
 ---
 
@@ -116,4 +125,4 @@ Most password managers connect to the internet. Even “offline” ones encrypt 
 3. On your phone, enable “Install from unknown sources” for your browser or file manager
 4. Install and enjoy!
 
-**Verify the SHA‑256 checksum:**  817d89adaf816ef2e1c41dcadf8c6ba85f632b4a1a3c7f77f1b4af151632e5ff 
+**Verify the SHA‑256 checksum:**  25a46aa5aaba8d1a38ed46f7c48e7a9a35cff4d8bb7f674bdf92a8b45d256743
