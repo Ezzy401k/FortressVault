@@ -111,9 +111,9 @@ Most password managers connect to the internet. Even “offline” ones encrypt 
 
 ### Option 1 – Download the APK (recommended)
 
-1. Go to the [Releases page](https://github.com/YOUR_USERNAME/FortressVault/releases/latest)
+1. Go to the [Releases page](https://github.com/Ezzy401k/FortressVault/releases/latest)
 2. Download the `FortressVault-vX.X.X.apk` file
 3. On your phone, enable “Install from unknown sources” for your browser or file manager
 4. Install and enjoy!
 
-**Verify the SHA‑256 checksum:**
+**Verify the SHA‑256 checksum: sha256:817d89adaf816ef2e1c41dcadf8c6ba85f632b4a1a3c7f77f1b4af151632e5ff **
