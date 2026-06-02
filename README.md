@@ -95,22 +95,22 @@ Most password managers connect to the internet. Even “offline” ones encrypt 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/DarkMode.png" width="200" />
-  <img src="screenshots/LightMode.png" width="200" />
-  <img src="screenshots/LinkedPasswordAndTOTP.png" width="200" />
-  <img src="screenshots/LinkedTOTP.png" width="200" />
-  <img src="screenshots/PasswordSetup.png" width="200" />
-  <img src="screenshots/PasswordThatExpires.png" width="200" />
-  <img src="screenshots/RandomPasswordGenerator.png" width="200" />
-  <img src="screenshots/RecoveryKeyGeneration.png" width="200" />
-  <img src="screenshots/Settings.png" width="200" />
-  <img src="screenshots/SetupMasterKey.png" width="200" />
-  <img src="screenshots/Test.png" width="200" />
-  <img src="screenshots/TOTPPAGE.png" width="200" />
-  <img src="screenshots/TotpScreen.png" width="200" />
-  <img src="screenshots/UnlinkedTOTP.png" width="200" />
-  <img src="screenshots/VaultListedkey.png" width="200" />
-  <img src="screenshots/VaultUI.png" width="200" />
+  <img src="Screenshots/DarkMode.png" width="200" />
+  <img src="Screenshots/LightMode.png" width="200" />
+  <img src="Screenshots/LinkedPasswordAndTOTP.png" width="200" />
+  <img src="Screenshots/LinkedTOTP.png" width="200" />
+  <img src="Screenshots/PasswordSetup.png" width="200" />
+  <img src="Screenshots/PasswordThatExpires.png" width="200" />
+  <img src="Screenshots/RandomPasswordGenerator.png" width="200" />
+  <img src="Screenshots/RecoveryKeyGeneration.png" width="200" />
+  <img src="Screenshots/Settings.png" width="200" />
+  <img src="Screenshots/SetupMasterKey.png" width="200" />
+  <img src="Screenshots/Test.png" width="200" />
+  <img src="Screenshots/TOTPPAGE.png" width="200" />
+  <img src="Screenshots/TotpScreen.png" width="200" />
+  <img src="Screenshots/UnlinkedTOTP.png" width="200" />
+  <img src="Screenshots/VaultListedkey.png" width="200" />
+  <img src="Screenshots/VaultUI.png" width="200" />
 </p>
 
 
