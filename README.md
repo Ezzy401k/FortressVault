@@ -116,4 +116,4 @@ Most password managers connect to the internet. Even “offline” ones encrypt 
 3. On your phone, enable “Install from unknown sources” for your browser or file manager
 4. Install and enjoy!
 
-**Verify the SHA‑256 checksum:**  sha256:817d89adaf816ef2e1c41dcadf8c6ba85f632b4a1a3c7f77f1b4af151632e5ff 
+**Verify the SHA‑256 checksum:**  817d89adaf816ef2e1c41dcadf8c6ba85f632b4a1a3c7f77f1b4af151632e5ff 
