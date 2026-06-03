@@ -5,8 +5,7 @@
 <h1 align="center">FortressVault</h1>
 
 <p align="center">
-  <strong>The zero‑knowledge, offline password manager that can lie to attackers.</strong><br>
-  No internet permission. Field‑level encryption. Decoy vault. Matrix‑style dashboard.
+  <strong>Zero‑knowledge, completely offline. Engineered with field‑level encryption and a decoy vault – security that refuses to compromise.</strong><br>
 </p>
 
 <p align="center">
@@ -128,4 +127,4 @@ Most password managers connect to the internet. Even “offline” ones encrypt 
 3. On your phone, enable “Install from unknown sources” for your browser or file manager
 4. Install and enjoy!
 
-**Verify the SHA‑256 checksum:** `1a95a264e4ae501d5604d8b2bda9959882f8a81bfc8e826f7e55f34721551fb8`
+**Verify the SHA‑256 checksum:** `682b9c98c6f4b14a0bce20fbc8e317e81cb8e54697407142eff0cb875f93ca39`
