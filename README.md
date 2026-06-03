@@ -49,9 +49,12 @@ Most password managers connect to the internet. Even “offline” ones encrypt 
 - **Hardcore self‑destruct** – wipe all data after 10 failed attempts
 - **Anti‑screenshot & anti‑clipboard capture**
 - **Memory safety** – all plaintext zeroed after use
+- **Defensive database handling** – corrupted databases are automatically deleted and recreated, preventing crashes
 
 ### 🧅 Anti‑Coercion
 - **Decoy Vault** – hand over a fake password under duress; the real vault stays hidden
+  - **Persistent fake settings** – any changes you make inside the decoy settings are saved inside the encrypted decoy database and survive restarts
+  - **Full fake UI** – toggles, dialogs, and toasts behave exactly like the real vault, masking the decoy's existence
 - **App icon camouflage** (coming soon) – change the launcher icon to a calculator/notepad
 
 ### 📊 Dashboard & Monitoring
@@ -80,15 +83,16 @@ Most password managers connect to the internet. Even “offline” ones encrypt 
 - **Pending import queue** – receive files even when vault is locked
 
 ### 🧬 24‑Word Recovery Phrase
-- BIP‑39 compatible backup
+- BIP‑39 wordlist, verifiable backup
 - Forced verification during setup
 - Unlock screen recovery – never get locked out
 
 ### 🎨 User Experience
 - Tactical hardware theme (sharp rectangles, monospace fonts)
-- Dark / light mode with animated transition
+- Dark / light mode with animated circular reveal
 - Glass‑morphic animated dock
 - Built‑in user guide accessible from any screen
+- Themed dialogs consistent across the entire app
 
 ---
 
@@ -113,7 +117,6 @@ Most password managers connect to the internet. Even “offline” ones encrypt 
   <img src="Screenshots/VaultUI.png" width="200" />
 </p>
 
-
 ---
 
 ## 📥 Download & Install
@@ -125,4 +128,4 @@ Most password managers connect to the internet. Even “offline” ones encrypt 
 3. On your phone, enable “Install from unknown sources” for your browser or file manager
 4. Install and enjoy!
 
-**Verify the SHA‑256 checksum:**  1a95a264e4ae501d5604d8b2bda9959882f8a81bfc8e826f7e55f34721551fb8
+**Verify the SHA‑256 checksum:** `1a95a264e4ae501d5604d8b2bda9959882f8a81bfc8e826f7e55f34721551fb8`
